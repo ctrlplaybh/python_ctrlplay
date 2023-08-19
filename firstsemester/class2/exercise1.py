@@ -1,0 +1,1 @@
+#Uma variável em Python é
